@@ -3,4 +3,5 @@
 main()
 {
 log.out("hi");
+log.out("world")
 }
